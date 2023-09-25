@@ -1,0 +1,9 @@
+Name,Product,Gender,feedback,Age,Sentiment
+kk,mobile,male,good,22,Neutral
+piyush,i-phone,male,not good product,45,Neutral
+varun,earbuds,male,poor quailty,17,Neutral
+asha,chair,female,"too good, to use",12,Neutral
+soni,table,female,best quality,55,positive
+Ganesha,Modak,Male,best quality,40,positive
+khushi,notebook,female,worst quailty,24,Negative
+rashmi,study table,female,"worst quailty, bad product",30,Negative
